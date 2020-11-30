@@ -1,0 +1,15 @@
+{
+  "name": "weatherstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node weather.js",
+    "dev": "node -r dotenv/config weather.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
