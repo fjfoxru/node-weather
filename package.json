@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node weather.js",
-    "dev": "node -r dotenv/config weather.js"
+    "start": "node weather",
+    "dev": "node -r dotenv/config weather"
   },
   "author": "",
   "license": "ISC",

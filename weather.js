@@ -1,3 +1,4 @@
+const dotenv = require('dotenv').config()
 const readline = require('readline');
 const http = require('http');
 const input = readline.createInterface(process.stdin)
